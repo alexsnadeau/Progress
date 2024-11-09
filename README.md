@@ -1,7 +1,7 @@
 # Progress
 Update blog to post my progress throughout learning how to code and becoming a data scientist/engineer
 
-## Progress until 11/11 and Future Plans
+## Progress until 11/10 and Future Plans
 
 Hello future me. I began learning python in June 2024, a month after I graduated college. Data is something that fascinates me and I really wanted to make something of myself in the data world within my industry of chemical engineering. So I began to take the CS50P class from Harvard University and it took me a while to complete. I was distracted from trying to find a job in this grueling market and also hanging out with friends and enjoying my last months before working in the real world.
 
@@ -32,3 +32,5 @@ After doing that, I will start projects with getting data using SQL and then ana
 Then, to stretch out much further, I will begin machine learning and start with the Machine Learning course from Harvard University. There is so much to learn with Machine Learning, but I promise to start that next year no later than March.
 
 I will keep this blog updated weekly and see my progress grow into something I can be proud of.
+
+# Progress week 11/10-11/17
