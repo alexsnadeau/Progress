@@ -29,7 +29,7 @@ After that, my next steps are learning SQL, and this is my roadmap for that:
 
 After doing that, I will start projects with getting data using SQL and then analyzing it with pandas/python/matplotlib. That is the plan for now, and I expect to be done with all of that around February/March, depending on how long I want to spend doing side projects and really implementing what I learn from tutorial hell.
 
-Then, to stretch out much further, I will begin machine learning and start with the Machine Learning course from Harvard University. There is so much to learn with Machine Learning, but I promise to start that next year no later than March.
+Then, to stretch out much further, I will begin machine learning and start with fundamentals of statistics. Back to the basics. I will practically take a statistics course and learn all the advanced statistics techniques/methods until it really implements into my brain. Then to add to that, maybe some Linear Algebra but only the important topics. After that, which should take probably about a month of two, I will take the Machine Learning course from Harvard University as the first steps to learning. I have accumulated so many Machine Learning resources so far so all I need to do is go through them and see what I can make of this. There is so much to learn with Machine Learning, but I promise to start that next year no later than July 2025. I need to give myself time to learn statistics beforehand since that is the barebones of Machine Learning.
 
 I will keep this blog updated weekly and see my progress grow into something I can be proud of.
 
