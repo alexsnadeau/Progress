@@ -15,7 +15,7 @@ After realizing that, I started to pick up coding again, and completed the CS50P
 
 After finishing CS50P, I began to watch a lot of python videos just on different techniques that build off of what I learned. And after a little while, I started to research different roadmaps to how I can become a data scientist. The main skills that I found that I should be learning were Python, Pandas, SQL, Matplotlib, Seaborn, Excel, and Tableau. To me, all of these seemed reasonable because I have a backround in engineering and already have mastered problem solving at hand. For me, the difficult part was teaching myself everything within a certain time frame.
 
-I felt like I knew python well and understood the language better than most just because I've already learned how to problem solve, so that's why I skipped doing small python projects and went straight to pandas. I found Luke Barousse's Data Analytics in Python video on YouTube, and wen through that pretty quickly while applying the same method I did with CS50P: stopping the video to understand/grasp concepts, doing example problems, and reading over code to understand what I'm actually writing.
+I felt like I knew python well and understood the language better than most just because I've already learned how to problem solve, so that's why I skipped doing small python projects and went straight to pandas. I found Luke Barousse's Data Analytics in Python video on YouTube, and went through that pretty quickly while applying the same method I did with CS50P: stopping the video to understand/grasp concepts, doing example problems, and reading over code to understand what I'm actually writing.
 
 Now, the next steps is to practice more with pandas and apply my knowledge with datasets from Kaggle and practice this business mindset of grabbing data from somewhere (Kaggle), processing it, cleaning it, and getting insights from it. That is what's in store for the next month so I can get a really good sense of data analysis with Python.
 
@@ -33,4 +33,8 @@ Then, to stretch out much further, I will begin machine learning and start with 
 
 I will keep this blog updated weekly and see my progress grow into something I can be proud of.
 
-# Progress week 11/10-11/17
+# Progress 12/10
+
+So this past month has been great for learning, especially with data analysis. I found more and more resources on different datasets and learning opportunities, such as Datawars, Kaggle, and different GitHub repos that have weekly datasets with business questions tied into them. Slowly but surely I am chugging along, but I don't want to rush things. I know I said I should be going into SQL atleast by the end of the month, but I'm not sure if I will get there. It all depends on my motivation during the holidays and throughout the new year, but I will try and make it a priority everyday to practce atleast an hour since I will have a bunch of free time at home.
+
+Otherwise, I am pretty confident with using beginnger pandas techniques and plenty of graphing techniques, but now I want to focus on groupby, pivot tables, and hammer down different seaborn graphing methods with unique datasets. After being comfortable with up to an intermediate-ish level of all of that, then I will continue onto SQL (hopefully by the beginning of the new year). I will check back in with the new year and give my short term and long term goals that I hope to achieve throughout the new year.
