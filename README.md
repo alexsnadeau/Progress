@@ -98,3 +98,24 @@ Once I can fully grasp date functions and apply them however I want, I feel like
 Also, something really exciting is that I found out that I can use SQL in my job. I will slowly but surely figure out some "ETL", if you even want to describe it as that, to extract information from SAP, clean it in python/pandas, and somehow export it to google cloud and get it into our design program sheets. This will help the applications team make better budgets for projects and this could potentially lead to more bids since they will have a more accurate number. Some NS Clarifier projects had budgets way over and this could be crucial since if we had the price half a million less, then we would be better contenders from the beginning when winning a project. I'm eager to continue this process and see what value I can provide.
 
 Excited for the journey to continue. It feels like it just got started but I've learned so much already. See you next progress check right before my big 2 week trip.
+
+# Progress 3/21
+
+Well here it is, the progress check right before my big trip and biggest hiatus I've taken with coding since the holidays in December/January. Currently, I am learning how to use Git in the terminal and also through GitHub. I have finished part 1 of the course and now on part 2, looking forward to possibly complete it today (2 hours remaining). I think it will definitely benefit knowing how to use it when learning machine learning because I believe I will be on VS Code a lot.
+
+I know I mentioned my path/roadmap for machine learning in the last progress check, but here is a more definitive list of how I'm going to tackle this:
+
+1. Watch Introduction to Statistics video playlist saved by StatQuest with Josh Starmer to get a good recap of fundamental statistics that I learned in college/high school
+2. Watch the introduction to statistics video playlist from Stanford which covers the Introduction to Statistical Learning (ISL) textbook which is fundamental to machine learning
+3. Do the CS50 AI with Python course from Harvard
+4. Do Andrew Ng's Machine Learning course as the last good reference to machine learning even though it might be repetitive (heard this is one of the best courses out there)
+
+After doing all of these, I believe I will have a good stance on the machine learning topics to where I can stard making projects. I know I have a ton of videos saved in my watch later, so I can go through some of those if they deem appropriate. I've got too many in there and I need to remove them one by one since most of them are basic tutorials.
+
+I am giving myself atleast 3-4 months to learn this stuff. Target end date will be around the end of July. This is where I need to put in the effort and really learn because this is the foundation of jobs like being a data scientist or analyst. My goal is to take better notes and really attempt to do problems without any assistance. Studying just how I did in school is the best method to learn, and starting at a problem for hours will help me with that. I need to find that motivation to stick with it and not give up, and after coming back from Japan it is going to be difficult.
+
+Coming back from such a high of a trip will bring my dopamine receptors down since I will be seeking this high when it won't be there anymore, so a couple of off days doing nothing is important before starting this big task.
+
+After machine learning stuff, I will focus on data visualization with Tableau, which won't take long, and bring everything together with real world applications. Then, if I'm comfortable with everything and can do interview questions with ease, the job hunt may begin. I don't want to get ahead of myself though, since it takes hard work and discipline to get there. So far I've done good, and I am still very excited for the future. I will come back with an update after my trip to do a small recap on my mindset going into machine learning.
+
+That's all for now. See you in 2 weeks.
