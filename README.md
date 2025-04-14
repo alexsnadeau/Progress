@@ -1,4 +1,4 @@
-# Progress
+# Journey to Becoming a Data Scientist Progress
 Update blog to post my progress throughout learning how to code and becoming a data scientist/engineer
 
 # Progress until 11/10 and Future Plans
