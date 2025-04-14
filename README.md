@@ -1,7 +1,7 @@
 # Progress
 Update blog to post my progress throughout learning how to code and becoming a data scientist/engineer
 
-## Progress until 11/10 and Future Plans
+# Progress until 11/10 and Future Plans
 
 Hello future me. I began learning python in July 2024, a couple months after I graduated college. Data is something that fascinates me and I really wanted to make something of myself in the data world within my industry of chemical engineering. So I began to take the CS50P class from Harvard University and it took me a while to complete. I was distracted from trying to find a job in this grueling market and also hanging out with friends and enjoying my last months before working in the real world.
 
@@ -120,7 +120,7 @@ After machine learning stuff, I will focus on data visualization with Tableau, w
 
 That's all for now. See you in 2 weeks.
 
-#Progress 4/14
+# Progress 4/14
 
 Vacation to Japan was quite the trip. I'm glad I took a long break without thinking about coding for a while so I can put my mind in a relaxing mode without worrying about keeping up with learning new things. I did review Python code that I've done with the CS50P course and practice problems just for sinmple review, but nothing major. I also completed the Git course and have a good understanding of how Git works. I will start using it and maybe even learn Vim if I think it'll be useful in the long run whenever I begin using VS Code for machine learning problems.
 
