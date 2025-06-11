@@ -150,3 +150,15 @@ But I am going home for the weekend this week and I am very excited because I ca
 Okay, no more life talk and time to keep up with my goal. As I've mentioned before in other progress checks, my target date is July to be done with machine learning stuff, but I still don't want to rush anything because this is definitely the majority of the work I might be doing in the future. So no need to rush/skip important things and practice that will eventually help me out in the long run.
 
 New progress update next week after I return to Richmond. Adios.
+
+# Progress 6/11
+
+My machine learning progress is going great. I'm going through the YouTube playlist and taking notes on all these new machine learning concepts, and even doing some python with them (only slightly). They are starting to get more interesting since in the beginning it was just introductory topics, so I'm excited to keep learning about them all. For my project at work, it is moving along very swiftly as now I have one big dataframe with all the jar tests and one big dataframe with all the routines. Obvsiouly they aren't super clean, but I will try and separate the dataframes based off application, such as Phos Removal or Silica Removal, and see how I can combine the dataframes. There are still many ideas out there to do what I'm trying to do, and talking with our company AI has helped a little bit. I know there are some more machine learning concepts that I need to learn before I begin the machine learning part of it, but for not cleaning and parsing the data is the main priority.
+
+Life wise, I went home last weekend for my sisters graduation and I had such a good time. It really is nice to be home once in a while just to see my close friends/family because they really help me bring out the best version of myself. I can ask them things that I'm struggling with and they will give me good advice since they know me best. And also, being home really wants me to move back, but it's a weird decision since I feel like I still need to build my life over here in Richmond. I've developed a great tennis group, I've found good tennis clients that will be consistent throughout the summer, and found a great friend group who have qualities and personalities similar to my friends back home. Is it really worth it to lose all of that to go back home and enjoy what I used to have? Will I feel the same if I go back home and have this "realization" that it's just all the same with a little extra piece of comfortability in my life? I don't want to do the latter and regret what I did because then it'll feel like I just hit an accidental reset button on my life. 
+
+These are the tough questions that I really don't have answers to, but I hope to find the answers soon.
+
+But coding wise, the grind continues. The July target date might not be totally reasonable due to me focusing a bit more on this project for work, so that might change which is totally fine.
+
+New update next week.
