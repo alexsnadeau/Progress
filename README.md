@@ -162,3 +162,15 @@ These are the tough questions that I really don't have answers to, but I hope to
 But coding wise, the grind continues. The July target date might not be totally reasonable due to me focusing a bit more on this project for work, so that might change which is totally fine.
 
 New update next week.
+
+# Progress 6/27
+
+To be completely honest, I forgot about updating this. Learning has been going really good, and I finished watching all the videos up to Neural Networks with Josh Starmer Statquest. I want to wait to learn neural networks until I get a good understanding of all the classification models, regression models, and clustering techniques. I am reading the Hands on Machine Learning textbook now up until the neural networks chapter to get some coding practice and then I'll tackle them after. I kind of stopped by coding project at work because I had a lot of time to learn, and I'd rather get all this information in, take notes, code examples, and progress instead of just doing a project that I don't have direction in yet. Plus, my boss didn't want me to continue so I just stopped for the time being.
+
+Regarding life, I went to Florida last weekend and I can truly say I haven't had that much fun in a while. It truly felt like home and I enjoyed every single second of it. My high school friends are so close to me and they bring out the best in me. I cried laughing so many times, we shared memories, went out to different bars, got barely any sleep, played golf, and had the time of our lives. I really needed something like that because of that lull I was feeling back a couple of weeks ago. And, with my trip to DC coming up this weekend with my college roommates, and my trip to Murrels Inlet to see my other college friends for the 4th of July, I really am excited to block off distractions in my life and enjoy what I have. Learn on the weekdays, grind out teaching tennis, the gym, coding, reading my cookbook, and take the time to relax and really enjoy the moment on the weekends until I have a nice break in July/August until football season.
+
+After talking with some friends about my questions I had last progress update, I found that I am thinking too much about what my future might be and worrying that I'm not going to like it in a year. Sometimes, my thought process of overthinking takes over and forces me to make small decisions in my head that doesn't benefit me at all. I feel that slowing things down and analyzing what I'm thinking really helps me make the right decision and gets me in the right headspace. Also, talking to close friends for different opinions is a huge help, and I fully rely on them and thank them for the support because without it, I don't know where I would be right now.
+
+So for the next month, I will be coding machine learning examples with what I am learning in the textbook and the notes I have already taken in my paper notebook to develop a better understanding of what each model does, how to choose the right one, how to clean data to perform better feature engineering, and output the best model for the data in front of me.
+
+Off to DC. Update next week.
