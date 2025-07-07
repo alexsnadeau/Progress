@@ -174,3 +174,11 @@ After talking with some friends about my questions I had last progress update, I
 So for the next month, I will be coding machine learning examples with what I am learning in the textbook and the notes I have already taken in my paper notebook to develop a better understanding of what each model does, how to choose the right one, how to clean data to perform better feature engineering, and output the best model for the data in front of me.
 
 Off to DC. Update next week.
+
+# Progress 7/7
+
+Totally skipped last week's update but that's okay. The road to a data scientist is still contiuing, and I am on Chapter 4 of the textbook. The first 3 have been very helpful, with the second being a full on project and the third talking about classification techniques specifically. Now, on chapter 4, the focus is on training data and explaining more of the basic models such as linear regression, logistic regression, and gradient descent. I am not only following the textbook but reading online different examples of what certain things mean, and it has been helping a lot. I am waiting to do the examples at the end of each chapter until the end because I think that will be the most useful with all the knowledge that I learn throughout the book.
+
+Regarding DC and Murrels Inlet, I also had an amazing time at both and enjoyed the time to relax the brain from what I was feeling a month ago. I am in a great headspace now and feel motivated to continue on my learning journey and keep up with my daily routines throughout the week. I also have a month and a half to relax on the weekends and not travel for a change, which I'm super excited about. Also, I found out that my rotation ends at the end of July for work, so that means I will hopefully be more busy and working with Patrick, who is the person I've been talking to for most of my rotation about coding. I haven't really done much for the lab in a while and it's been pretty boring/unmotivating to do other things in life since this is the majority of my day, but I am hoping the new rotation will open new doors for me and help my network my way into a new role in the future, even potentially with the data science team in France.
+
+Otherwise, the learning continues and a new update will come eventually.
